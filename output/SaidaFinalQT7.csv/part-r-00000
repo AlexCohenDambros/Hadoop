@@ -1,0 +1,4 @@
+Export	Commodity: '"Ice, snow and potable water not sweetened or flavoure"', Amount=6.99847369665E11
+Import	Commodity: '"Iron ore, concentrate, not iron pyrites,unagglomerate"', Amount=1.073469712878E12
+Re-Export	Commodity: '"Safety razor blades, including blanks in strips"', Amount=1.261968E9
+Re-Import	Commodity: '"Chem wood pulp, soda/sulphate, non-conifer, bleached"', Amount=3.8774873E7
